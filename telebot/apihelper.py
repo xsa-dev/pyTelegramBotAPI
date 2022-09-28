@@ -45,7 +45,7 @@ CUSTOM_SERIALIZER = None
 CUSTOM_REQUEST_SENDER = None
 
 ENABLE_MIDDLEWARE = False
-TEST = True
+TEST = False
 
 
 def _get_req_session(reset=False):
